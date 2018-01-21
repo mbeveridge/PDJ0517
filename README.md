@@ -1,7 +1,7 @@
 # Knight Center MOOC : "[Python for Data Journalists: Analyzing Money in Politics](https://journalismcourses.org/PDJ0517.html)"
 ###### 12/6/17 - 9/7/17
 
-Based on Ben Welsh's '[First Python Notebook](http://www.firstpythonnotebook.org/about/index.html)' course, with additional reading, quizes and forums
+Based on Ben Welsh's '[First Python Notebook](http://www.firstpythonnotebook.org/about/index.html)' course, with additional reading, quizzes, forums, etc
 
 ## Syllabus
 ### Module 1: Hello notebook
